@@ -31,7 +31,7 @@
             casetilldate: "1 day" ,
             email: "michael.lawson@reqres.in",
             first_name: "Michael",
-            last_name: "Lawson",
+            last_name: "Lawson" ,
             avatar: "https://reqres.in/img/faces/7-image.jpg"
         },
         {
