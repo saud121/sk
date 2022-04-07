@@ -1,0 +1,73 @@
+[{
+            "id":1,
+            "casetype": "Harrasment" ,
+            "casetimedate": "4-Aug-22 3:00" ,
+            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend" ,
+            "status": "NEW" ,
+            "casetilldate": "1 day" ,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id":2,
+            "casetype": "Harrasment" ,
+            "casetimedate": "4-Aug-22 3:00" ,
+            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend" ,
+            "status": "NEW" ,
+            "casetilldate": "1 day" ,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id":3,
+            "casetype": "Harrasment" ,
+            "casetimedate": "4-Aug-22 3:00" ,
+            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend" ,
+            "status": "NEW" ,
+            "casetilldate": "1 day" ,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id":4,
+            "casetype": "Harrasment" ,
+            "casetimedate": "4-Aug-22 3:00" ,
+            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend" ,
+            "status": "NEW" ,
+            "casetilldate": "1 day" ,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id":5,
+            "casetype": "Harrasment" ,
+            "casetimedate": "4-Aug-22 3:00" ,
+            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend" ,
+            "status": "NEW" ,
+            "casetilldate": "1 day" ,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id":6,
+            "casetype": "Harrasment" ,
+            "casetimedate": "4-Aug-22 3:00" ,
+            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend" ,
+            "status": "NEW" ,
+            "casetilldate": "1 day" ,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        }
+        ]
