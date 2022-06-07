@@ -1,73 +1,147 @@
-[{
-            "id":1,
-            "casetype": "Harrasment",
-            "casetimedate": "4-Aug-22 3:00",
-            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend",
-            "status": "NEW",
-            "casetilldate": "1 day",
-            "email": "michael.lawson@reqres.in",
-            "first_name": "Michael",
-            "last_name": "Lawson",
-            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+{
+  "count": 2,
+  "has_next": false,
+  "page": 1,
+  "results": [
+    {
+      "id": 2,
+      "type": "check in",
+      "employee": {
+        "id": 3,
+        "email": "aRamsey@gmail.com",
+        "first_name": "Aaron",
+        "full_name": "Aaron Ramsey",
+        "avatar": "https://hippoculture.s3.amazonaws.com/media/avatars/2018/02/28/2_3"
+      },
+      "user": {
+        "id": 3,
+        "employee": {
+          "id": 3,
+          "email": "aRamsey@gmail.com",
+          "first_name": "Aaron",
+          "full_name": "Aaron Ramsey",
+          "avatar": "https://hippoculture.s3.amazonaws.com/media/avatars/2018/02/28/2_3"
+        }
+      },
+      "event_type": 21,
+      "event_id": 5,
+      "date": "2018-03-02T14:26:09.466083Z",
+      "verb": null,
+      "description": null,
+      "related_object": {
+        "id": 5,
+        "employee": {
+          "id": 3,
+          "email": "aRamsey@gmail.com",
+          "first_name": "Aaron",
+          "full_name": "Aaron Ramsey",
+          "avatar": "https://hippoculture.s3.amazonaws.com/media/avatars/2018/02/28/2_3"
         },
-        {
-            "id":2,
-            "casetype": "Harrasment",
-            "casetimedate": "4-Aug-22 3:00",
-            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend",
-            "status": "NEW",
-            "casetilldate": "1 day",
-            "email": "michael.lawson@reqres.in",
-            "first_name": "Michael",
-            "last_name": "Lawson",
-            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        "host": {
+          "id": 1,
+          "email": "lnile@gmail.com",
+          "first_name": "Lawrence",
+          "full_name": "Lawrence Nile",
+          "avatar": "https://hippoculture.s3.amazonaws.com/media/avatars/2018/03/01/2_1"
         },
-        {
-            "id":3,
-            "casetype": "Harrasment",
-            "casetimedate": "4-Aug-22 3:00",
-            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend",
-            "status": "NEW",
-            "casetilldate": "1 day",
-            "email": "michael.lawson@reqres.in",
-            "first_name": "Michael",
-            "last_name": "Lawson",
-            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        "date": "2018-03-02T14:26:09.454526Z",
+        "summary": "HFSSFHSFHSS",
+        "happiness": {
+          "id": 5,
+          "employee": {
+            "id": 3,
+            "email": "aRamsey@gmail.com",
+            "first_name": "Aaron",
+            "full_name": "Aaron Ramsey",
+            "avatar": "https://hippoculture.s3.amazonaws.com/media/avatars/2018/02/28/2_3"
+          },
+          "assessment": 3,
+          "assessment_verbose": "Neutral",
+          "assessed_by": {
+            "id": 1,
+            "email": "lnile@gmail.com",
+            "first_name": "Lawrence",
+            "full_name": "Lawrence Nile",
+            "avatar": "https://hippoculture.s3.amazonaws.com/media/avatars/2018/03/01/2_1"
+          },
+          "assessed_date": "2018-03-02T14:26:09.474810Z",
+          "comment": null
         },
-        {
-            "id":4,
-            "casetype": "Harrasment",
-            "casetimedate": "4-Aug-22 3:00",
-            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend",
-            "status": "NEW",
-            "casetilldate": "1 day",
-            "email": "michael.lawson@reqres.in",
-            "first_name": "Michael",
-            "last_name": "Lawson",
-            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        "comments": [],
+        "shared": false,
+        "visible_to_employee": true
+      },
+      "show_conversation": true
+    },
+    {
+      "id": 1,
+      "type": "check in",
+      "employee": {
+        "id": 3,
+        "email": "aRamsey@gmail.com",
+        "first_name": "Aaron",
+        "full_name": "Aaron Ramsey",
+        "avatar": "https://hippoculture.s3.amazonaws.com/media/avatars/2018/02/28/2_3"
+      },
+      "user": {
+        "id": 3,
+        "employee": {
+          "id": 3,
+          "email": "aRamsey@gmail.com",
+          "first_name": "Aaron",
+          "full_name": "Aaron Ramsey",
+          "avatar": "https://hippoculture.s3.amazonaws.com/media/avatars/2018/02/28/2_3"
+        }
+      },
+      "event_type": 21,
+      "event_id": 4,
+      "date": "2018-03-02T14:22:55.197090Z",
+      "verb": null,
+      "description": null,
+      "related_object": {
+        "id": 4,
+        "employee": {
+          "id": 3,
+          "email": "aRamsey@gmail.com",
+          "first_name": "Aaron",
+          "full_name": "Aaron Ramsey",
+          "avatar": "https://hippoculture.s3.amazonaws.com/media/avatars/2018/02/28/2_3"
         },
-        {
-            "id":5,
-            "casetype": "Harrasment",
-            "casetimedate": "4-Aug-22 3:00",
-            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend",
-            "status": "NEW",
-            "casetilldate": "1 day",
-            "email": "michael.lawson@reqres.in",
-            "first_name": "Michael",
-            "last_name": "Lawson",
-            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        "host": {
+          "id": 1,
+          "email": "lnile@gmail.com",
+          "first_name": "Lawrence",
+          "full_name": "Lawrence Nile",
+          "avatar": "https://hippoculture.s3.amazonaws.com/media/avatars/2018/03/01/2_1"
         },
-        {
-            "id":6,
-            "casetype": "Harrasment",
-            "casetimedate": "4-Aug-22 3:00",
-            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend",
-            "status": "NEW",
-            "casetilldate": "1 day",
-            "email": "michael.lawson@reqres.in",
-            "first_name": "Michael",
-            "last_name": "Lawson",
-            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        "date": "2018-03-02T14:22:55.165202Z",
+        "summary": "ssFsfsfsfsfsfsf",
+        "happiness": {
+          "id": 4,
+          "employee": {
+            "id": 3,
+            "email": "aRamsey@gmail.com",
+            "first_name": "Aaron",
+            "full_name": "Aaron Ramsey",
+            "avatar": "https://hippoculture.s3.amazonaws.com/media/avatars/2018/02/28/2_3"
+          },
+          "assessment": 4,
+          "assessment_verbose": "Happy",
+          "assessed_by": {
+            "id": 1,
+            "email": "lnile@gmail.com",
+            "first_name": "Lawrence",
+            "full_name": "Lawrence Nile",
+            "avatar": "https://hippoculture.s3.amazonaws.com/media/avatars/2018/03/01/2_1"
+          },
+          "assessed_date": "2018-03-02T14:22:55.217755Z",
+          "comment": null
         },
-        ]
+        "comments": [],
+        "shared": false,
+        "visible_to_employee": true
+      },
+      "show_conversation": true
+    }
+  ]
+}
