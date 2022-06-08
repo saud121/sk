@@ -11,7 +11,7 @@
             "avatar": "https://reqres.in/img/faces/7-image.jpg",
             "nested":{
             "nested1":"nested1"
-            }
+            },
         },
         {
             "id":2,
@@ -26,7 +26,7 @@
             "avatar": "https://reqres.in/img/faces/7-image.jpg",
             "nested":{
             "nested1":"nested1"
-            }
+            },
         },
         {
             "id":3,
@@ -41,7 +41,7 @@
             "avatar": "https://reqres.in/img/faces/7-image.jpg",
             "nested":{
             "nested1":"nested1"
-            }
+            },
         },
         {
             "id":4,
@@ -56,6 +56,6 @@
             "avatar": "https://reqres.in/img/faces/7-image.jpg",
             "nested":{
             "nested1":"nested1"
-            }
+            },
         }
         ]
