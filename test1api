@@ -12,5 +12,50 @@
             "nested":{
             "nested1":"nested1"
             }
+        },
+        {
+            "id":2,
+            "casetype": "Harrasment" ,
+            "casetimedate": "4-Aug-22 3:00" ,
+            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend" ,
+            "status": "NEW" ,
+            "casetilldate": "1 day" ,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg",
+            "nested":{
+            "nested1":"nested1"
+            }
+        },
+        {
+            "id":3,
+            "casetype": "Harrasment" ,
+            "casetimedate": "4-Aug-22 3:00" ,
+            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend" ,
+            "status": "NEW" ,
+            "casetilldate": "1 day" ,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg",
+            "nested":{
+            "nested1":"nested1"
+            }
+        },
+        {
+            "id":4,
+            "casetype": "Harrasment" ,
+            "casetimedate": "4-Aug-22 3:00" ,
+            "casedetail": "i was there and he was here so we lorem ipsum try to understand the issue is test but unfortunatley this had happend" ,
+            "status": "NEW" ,
+            "casetilldate": "1 day" ,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg",
+            "nested":{
+            "nested1":"nested1"
+            }
         }
         ]
