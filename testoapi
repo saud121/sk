@@ -2,29 +2,26 @@
             "number": 17,
             "name": "Total Complains",
             "color": "Michael",
-            "last_name": "Lawson",
-            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+            "month": "jan",
+            "Cnumber": "5"
         },
         {
             
             "number": 7,
             "name": "New Complains",
             "color": "Michael",
-            "last_name": "Lawson",
-            "avatar": "https://reqres.in/img/faces/7-image.jpg"
-        },
+            "month": "feb",
+            "Cnumber": "6"},
         {
             "number": 7,
             "name": "Delayed Complains",
             "color": "Michael",
-            "last_name": "Lawson",
-            "avatar": "https://reqres.in/img/faces/7-image.jpg"
-        },
+            "month": "mar",
+            "Cnumber": "7"},
         {
             "number": 3,
             "name": "Resolved Complains",
             "color": "Michael",
-            "last_name": "Lawson",
-            "avatar": "https://reqres.in/img/faces/7-image.jpg"
-        }
+            "month": "apr",
+            "Cnumber": "8"}
         ]
