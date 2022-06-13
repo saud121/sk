@@ -3,7 +3,7 @@
             "name": "Total Complains",
             "color": "Michael",
             "month": "jan",
-            "Cnumber": "5"
+            "Cnumber": 5
         },
         {
             
@@ -11,17 +11,17 @@
             "name": "New Complains",
             "color": "Michael",
             "month": "feb",
-            "Cnumber": "6"},
+            "Cnumber": 6},
         {
             "number": 7,
             "name": "Delayed Complains",
             "color": "Michael",
             "month": "mar",
-            "Cnumber": "7"},
+            "Cnumber": 7},
         {
             "number": 3,
             "name": "Resolved Complains",
             "color": "Michael",
             "month": "apr",
-            "Cnumber": "8"}
+            "Cnumber": 8}
         ]
